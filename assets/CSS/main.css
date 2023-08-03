@@ -13,11 +13,11 @@ header nav {
 }
 header button {
   float: right;
-  padding-right: 20px;
-  padding-left: 20px;
   height: 40px;
   background-color: black;
   border: none;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 header ul li {
   float: left;
@@ -57,6 +57,7 @@ header a:hover {
 }
 .section2 {
   height: 100vh;
+  margin-bottom: 80px;
 }
 .article1 {
   padding-top: 100px;
@@ -103,4 +104,171 @@ header a:hover {
 }
 article article p {
   margin-bottom: 17px;
+}
+.section3 {
+  width: 100%;
+  height: 850px;
+  background-color: black;
+}
+#id2 h2 {
+  letter-spacing: 3px;
+  font-size: 2rem;
+  font-weight: 100;
+  padding-bottom: 18px;
+  padding-top: 100px;
+  text-align: center;
+  color: white;
+}
+#id2 ul {
+  width: 721px;
+  height: 100px;
+  background-color: #fff !important;
+  margin-left: 270px;
+  margin-top: 50px;
+  color: #757575;
+  display: block;
+  list-style-type: none;
+}
+#id2 .span1 {
+  text-align: center;
+  color: #757575;
+}
+#id2 ul li {
+  border: 1px solid #ccc;
+  padding-top: 6.5px;
+  padding-bottom: 6.5px;
+  padding-left: 15px;
+}
+.Sold {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-left: 10px;
+  background-color: red;
+  color: white;
+}
+.span3 {
+  background-color: black;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-radius: 50%;
+  margin-left: 600px;
+  margin-right: 5px;
+  color: white;
+  font-size: 12px;
+}
+.article3 {
+  width: 735px;
+  height: 400px;
+  margin-left: 270px;
+  margin-top: 40px;
+}
+.article4 {
+  width: 230px;
+  height: 370px;
+  background-color: white;
+  float: left;
+  margin-right: 15px;
+}
+.article4 img {
+  width: 230px;
+  height: 170px;
+}
+.article4 img:hover {
+  opacity: 0.6;
+}
+.article4 h4 {
+  margin-top: 7px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+.article4 span {
+  margin-left: 10px;
+  margin-top: 20px;
+  display: inline-block;
+  opacity: 40%;
+}
+.article4 p {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+.article4 button {
+  margin-left: 10px;
+  border: none;
+  background-color: black;
+  color: white;
+  width: 90px;
+  height: 40px;
+  cursor: pointer;
+}
+.section4 {
+  width: 100%;
+  height: 500px;
+}
+.section4 p {
+  text-align: center;
+  margin-top: 85px;
+  font-size: 45px;
+  font-weight: 400;
+  letter-spacing: 4px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.section4 .span4 {
+  text-align: center;
+  display: block;
+  margin-top: 15px;
+  opacity: 40%;
+  font-style: italic;
+}
+.article5 li {
+  line-height: 35px;
+}
+.article5 ul {
+  margin-left: 270px;
+}
+.article5 li i {
+  font-size: 15px;
+  display: block;
+  padding-top: 17px;
+  float: left;
+}
+.article5 {
+  float: left;
+  margin-top: 30px;
+}
+.article5 .span5 {
+  margin-left: 15px;
+  font-size: 19px;
+}
+.article6 {
+  float: left;
+  margin-top: 30px;
+  height: 108px;
+}
+form {
+  margin-left: 165px;
+  margin-top: 0px;
+  width: 400px;
+  height: 110px;
+}
+.article6 .text1 {
+  width: 360px;
+  margin-top: 17px;
+  height: 40px;
+  padding-left: 10px;
+}
+.text1::placeholder {
+  color: rgb(159, 156, 156);
+  opacity: 1;
+}
+.article6 .text {
+  width: 177px;
+  height: 40px;
+  margin-top: 10px;
+  padding-left: 10px;
 }
